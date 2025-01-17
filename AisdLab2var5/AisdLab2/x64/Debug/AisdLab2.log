@@ -1,0 +1,3 @@
+﻿  AisdLab2.cpp
+C:\Users\nikit\Desktop\AisdLab2var5\AisdLab2.cpp(12,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  AisdLab2.vcxproj -> C:\Users\nikit\Desktop\AisdLab2var5\x64\Debug\AisdLab2.exe
