@@ -1,0 +1,367 @@
+﻿  AisdRGR.cpp
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(681,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(695,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(711,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(725,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(744,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(761,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(776,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(789,41): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(829,45): warning C4101: error: неиспользованная локальная переменная
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(134,7): warning C4101: point: неиспользованная локальная переменная
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(134,7):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(476,73):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(133,7):
+          во время компиляции функции-члена класс шаблон "void FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::FindBadVertex(int)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(62,17):
+              см. первую ссылку на FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::FindBadVertex "FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::restart"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(488,30):
+              см. первую ссылку на FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::restart "firstTaskMenu"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(166,33): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "AisdRGR.cpp")
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(103,7): warning C4101: i: неиспользованная локальная переменная
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(103,7):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(101,7):
+          во время компиляции функции-члена класс шаблон "void FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::FindLow(void)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(58,11):
+              см. первую ссылку на FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::FindLow "FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::restart"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(488,30):
+              см. первую ссылку на FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::restart "firstTaskMenu"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(195,31): warning C4101: error: неиспользованная локальная переменная
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(195,31):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(174,7):
+          во время компиляции функции-члена класс шаблон "void FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::HelpRoot(int)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(142,13):
+              см. первую ссылку на FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::HelpRoot "FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::FindBadVertex"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(62,17):
+              см. первую ссылку на FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::FindBadVertex "FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::restart"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(488,30):
+              см. первую ссылку на FirstTask<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::restart "firstTaskMenu"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(373,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(373,15):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(11,7):
+          при компиляции шаблона класса "FirstTask"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Task1.h(116,68):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(344,87):
+          во время компиляции функции-члена класс шаблон "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Graph(int,int,bool,bool)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(559,17):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::Graph "main"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(406,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(406,29):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(405,43):
+          во время компиляции функции-члена класс шаблон "int Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::getVertexCount(void)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(203,9):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::getVertexCount "outputEdgeIteratorMenu"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(414,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(414,13):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(413,40):
+          во время компиляции функции-члена класс шаблон "double Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::getRatio(void)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(645,39):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::getRatio "main"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(465,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(465,46):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(463,45):
+          во время компиляции функции-члена класс шаблон "Vertex *Graph<Vertex,Edge<Vertex,int,int>>::insertVertex(void)"
+          with
+          [
+              Vertex=Vertex<std::string,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(655,36):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::insertVertex "main"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(468,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(483,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(483,46):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(481,60):
+          во время компиляции функции-члена класс шаблон "Vertex *Graph<Vertex,Edge<Vertex,int,int>>::insertVertexname(std::string)"
+          with
+          [
+              Vertex=Vertex<std::string,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(666,34):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::insertVertexname "main"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(486,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(287,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(287,42):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(63,11):
+          при компиляции класса "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(282,51):
+          во время компиляции функции-члена класс шаблон "bool Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator::toEnd(void)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(34,57):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::VertexIterator::toEnd "vertexIteratorMenu"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(480,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(480,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(82,11):
+          при компиляции класса "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(84,41):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphMatrixForm<Edge>"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(479,53):
+          во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<Edge>::insertVertex(int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(496,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(496,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(495,53):
+          во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<Edge>::deleteVertex(int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(509,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(509,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(508,65):
+          во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<Edge>::insertEdge(int,int,Edge *)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(520,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(520,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(519,56):
+          во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<Edge>::deleteEdge(int,int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(530,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(530,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(529,61):
+          во время компиляции функции-члена класс шаблон "int GraphMatrixForm<Edge>::deleteEdgesFromVertex(int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(554,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(554,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(553,53):
+          во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<Edge>::hasEdge(int,int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(566,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(566,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(565,54):
+          во время компиляции функции-члена класс шаблон "Edge *GraphMatrixForm<Edge>::getEdge(int,int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(242,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(242,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(85,39):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "GraphListForm<Edge>"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(241,51):
+          во время компиляции функции-члена класс шаблон "bool GraphListForm<Edge>::insertVertex(int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(259,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(259,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(258,51):
+          во время компиляции функции-члена класс шаблон "bool GraphListForm<Edge>::deleteVertex(int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(281,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(281,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(280,63):
+          во время компиляции функции-члена класс шаблон "bool GraphListForm<Edge>::insertEdge(int,int,Edge *)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(295,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(295,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(294,54):
+          во время компиляции функции-члена класс шаблон "bool GraphListForm<Edge>::deleteEdge(int,int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(312,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(312,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(311,59):
+          во время компиляции функции-члена класс шаблон "int GraphListForm<Edge>::deleteEdgesFromVertex(int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(343,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(343,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(342,51):
+          во время компиляции функции-члена класс шаблон "bool GraphListForm<Edge>::hasEdge(int,int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(284,5):
+              см. первую ссылку на GraphListForm<Edge>::hasEdge "GraphListForm<Edge>::insertEdge"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(357,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(357,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(356,52):
+          во время компиляции функции-члена класс шаблон "Edge *GraphListForm<Edge>::getEdge(int,int)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(442,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(442,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(187,73):
+          во время компиляции функции-члена класс шаблон "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::EdgeIterator(Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>> &)"
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(110,95):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::EdgeIterator "edgeIteratorMenu"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(42,11):
+          при компиляции класса "GraphMatrixForm<Edge>::EdgeIterator"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(441,51):
+          во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<Edge>::EdgeIterator::toEnd(void)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(231,9):
+              см. первую ссылку на GraphMatrixForm<Edge>::EdgeIterator::toEnd "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::toEnd"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(130,55):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::EdgeIterator::toEnd "edgeIteratorMenu"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(443,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(387,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "AisdRGR.cpp")
+      C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(387,41):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(103,11):
+          при компиляции класса "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(126,96):
+          во время компиляции функции-члена класс шаблон "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::OutputEdgeIterator(Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>> &,Vertex &)"
+          with
+          [
+              Vertex=Vertex<std::string,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(215,111):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::OutputEdgeIterator "outputEdgeIteratorMenu"
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(55,11):
+          при компиляции класса "GraphMatrixForm<Edge>::OutputEdgeIterator"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+          C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(386,57):
+          во время компиляции функции-члена класс шаблон "bool GraphMatrixForm<Edge>::OutputEdgeIterator::toEnd(void)"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph.h(166,9):
+              см. первую ссылку на GraphMatrixForm<Edge>::OutputEdgeIterator::toEnd "Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::toEnd"
+          with
+          [
+              Edge=Edge<Vertex<std::string,int>,int,int>
+          ]
+              C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\AisdRGR.cpp(239,65):
+              см. первую ссылку на Graph<Vertex<std::string,int>,Edge<Vertex<std::string,int>,int,int>>::OutputEdgeIterator::toEnd "outputEdgeIteratorMenu"
+  
+C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\Graph_forms.h(215,1): warning C4715: GraphListForm<Edge<Vertex<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>,int,int> >::EdgeIterator::toEnd: значение возвращается не при всех путях выполнения
+  AisdRGR.vcxproj -> C:\Users\nikit\Desktop\РГР АИСД\AisdRGR_milana\x64\Debug\AisdRGR.exe
