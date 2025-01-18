@@ -1,0 +1,4 @@
+﻿  AisdLab3.cpp
+E:\АИСД\aisdlab3rework\AisdLab3\AisdLab3.cpp(18,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка E:\АИСД\aisdlab3rework\AisdLab3\x64\Debug\AisdLab3.exe при последней инкрементной компоновке; выполняется полная компоновка
+  AisdLab3.vcxproj -> E:\АИСД\aisdlab3rework\AisdLab3\x64\Debug\AisdLab3.exe
